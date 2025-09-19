@@ -1,0 +1,59 @@
+body {
+  font-family: 'Cormorant Garamond', serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #d3d3d3; /* Light gray background */
+  color: #000000; /* Black text */
+}
+
+
+header {
+  background-color: #000000; /* Black header */
+  color: #d3d3d3; /* Light gray text */
+  padding: 1em 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+}
+
+nav ul li a {
+  color: #d3d3d3; /* Light gray links */
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #ffffff; /* Optional: white on hover */
+}
+
+main {
+  padding: 2em;
+  background-color: #d3d3d3; /* Same as body */
+}
+
+footer {
+  background-color: #000000; /* Black footer */
+  color: #d3d3d3; /* Light gray text */
+  text-align: center;
+  padding: 1em 0;
+}
+.profile-pic {
+  width: 120px;             /* Adjust size as needed */
+  height: 120px;
+  border-radius: 50%;       /* Makes it a circle */
+  object-fit: cover;        /* Ensures image fills the circle */
+  border: 3px solid #d3d3d3; /* Optional: border for contrast */
+  display: block;
+  margin: 0 auto 1em;       /* Center image with spacing below */
+}
+
+
