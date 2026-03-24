@@ -8,22 +8,18 @@ function App() {
 
   const sections = {
     skills: [
-      'In our house i can cook adobo and do dishes.',
-      'I can play basketball.',
-      'I am good listener.',
-      'I have a emotional intelligence.',
+      'HTML.',
+      'CSS.',
+      'JavaScript.',
+      'React.',
     ],
     achievement: [
-      'In my highschool journey or G12 i have a honor.',
-      'In basketball tournament i have a mythical five award and rookie of the year.',
+      'Our group success in the research project, I created some designs and functionality.',
     ],
-    hobbies: ['Playing Basketball.', 'Listening to music.', 'Cooking sometimes.', 'Bonding to my family.'],
+    hobbies: ['WEB and Mobile design, with a growing curiosity in how AI can enhance user experiences.'],
     personalInfo: [
       'Mejias, Xavier John D.',
-      'I am 20 years old',
-      'I live in Brgy 2, Mamburao Occidental Mindoro',
-      '09457263325',
-      'mejiasxavierjohn@gmail.com',
+      'A 3rd Year Student BSIT, Want to explore more on technology, how it works and how it can be used to solve real-world problems.',
     ],
   }
 
